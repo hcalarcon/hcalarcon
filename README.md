@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Soy Hernaldo Cristian Alarcón! 
+Estudie y me recibi de Analista en Sistemas en la Universidad Nacional del Chaco Austral.
+Actualmente soy profesor de la tecnicatura en programación de la Escuela Provincial de Educación Tecnica Nº 12.
+Apasionado por la progrmación, por aprender y comunicar el conocimiento.
+Encontrarar en mi perfil, proyectos educativos y personales.
 <!--
 **hcalarcon/hcalarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
